@@ -33,7 +33,7 @@ body{
 }
 
 .containerSongs{
-  width: 440px;
+  /* width: 440px; */
 }
 
 .perTrackWrapper{
@@ -129,4 +129,9 @@ p{
     border-radius: 50%;
     background: #4CAF50;
     cursor: pointer;
+}
+
+.checkboxEnable {
+  float: left;
+  margin-right: 10px;
 }
